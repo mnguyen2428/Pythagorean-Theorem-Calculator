@@ -1,0 +1,12 @@
+body {
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+    margin: 50px;
+    background-color: #fbf7f7;
+}
+.container {
+    background: #e5c0d2;
+    padding: 50px;
+    border-radius: 10px;
+    display: inline-block;
+}
